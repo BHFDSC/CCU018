@@ -12,7 +12,7 @@ Results from our study will help to inform women on potential risks related to C
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-* [CCU018_01: Association of COVID-19 infection and vaccination with adverse pregnancy outcomes: a population-wide cohort study of 865,654 pregnant women in England and Wales](https://github.com/BHFDSC/CCU018_01)
+* [CCU018_01: COVID-19 diagnosis, vaccination during pregnancy, and adverse pregnancy outcomes of 865,654 women in England and Wales: a population-based cohort study](https://github.com/BHFDSC/CCU018_01)
 
 > Links to additional outputs to follow in due course.
 
